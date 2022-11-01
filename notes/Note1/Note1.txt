@@ -1,0 +1,11 @@
+
+Split screen, stacked on top of each other, player on bottom left of their screen
+Tron-style, leaving obstacles behind for players
+
+Controls:
+
+WASD and Arrow Keys
+
+Up to jump, can double jump
+Down to Dive down
+When losing, press left to drop obstacle behind
